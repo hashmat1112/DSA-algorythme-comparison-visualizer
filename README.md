@@ -1,3 +1,9 @@
+##preview
+###home screen
+![home screen](assets/home.png)
+
+###selection sort
+![selection sort](assets/selection_sort.png)
 # DSA Sorting Visualizer
 
 An interactive web-based visualization tool developed as a Data Structures & Algorithms (DSA) course project. This application demonstrates how different sorting algorithms work through real-time animations, helping users understand algorithm behavior, comparisons, and element movements.
@@ -13,7 +19,7 @@ An interactive web-based visualization tool developed as a Data Structures & Alg
 * Real-time move/swap counter
 * Keyboard shortcuts for quick control
 * Modern and responsive user interface
-![Home Screen](assets/Screenshot 2026-07-13 154546.png")
+
 
 ## Implemented Algorithms
 
