@@ -13,6 +13,7 @@ An interactive web-based visualization tool developed as a Data Structures & Alg
 * Real-time move/swap counter
 * Keyboard shortcuts for quick control
 * Modern and responsive user interface
+![Home Screen](assets/Screenshot 2026-07-13 154546.png")
 
 ## Implemented Algorithms
 
